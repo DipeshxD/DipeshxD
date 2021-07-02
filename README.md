@@ -1,34 +1,19 @@
-### ⚡ HELLO ⚡
+![colorless](https://telegra.ph/file/ba833dff7aa49931514c0.jpg)
 
-### About 🙋🏻‍♂️
-```python
-Name = "𝘿𝙄𝙋𝙀𝙎𝙃"
-who_i_am = ['Coding':  '❣️']
-Age = "15"
-Country = "🇮🇳"
-```
-#### 
-[![telegram badge](https://img.shields.io/badge/@DIPESH_XD-30302f?style=for-the-badge&logo=telegram)](https://t.me/DIPESH_XD)
-[![mailid badge](https://img.shields.io/badge/DIPESH-30302f?style=for-the-badge&logo=gmail)](mailto:dipeshpanja406@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdipesh&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+# Hi there, I'm Dipesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+[![Profile views](https://gpvc.arturio.dev/itzdipesh)](https://github.com/itzdipesh)                                                                                                                  
+- Some of my works include [Kristina](https://t.me/MissKristina_Bot) ...
+- I’m currently learning [Python](https://python.org) and [C#](https://github.com/dotnet/csharplang)
+- Stuff I like: Anime, Manga, Music and Video Production.
 
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+![Telegram Badge](https://img.shields.io/badge/-ディペッシュ-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DIPESH_XD)
+![Gmail Badge](https://img.shields.io/badge/-dipeshpanja406@gimail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dipeshpanja406@gmail.com)
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+## 🎯 **Dipesh's Github Stats**
+![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=itzdipesh&show_icons=true&theme=tokyonight)
 
-![DIPESH Git Stats](https://github-readme-stats.vercel.app/api?username=xdipesh&include_all_commits=true&count_private=true&theme=highcontrast)
+## 💻 **Languages I fuck around with.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
-
-### Languages and Tools I Love❤️
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
-[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-
-<br />
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdipesh&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
+## 🎵 **Crap I listen to, on Spotify.**
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
