@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
+<h1 align="center">Hi 👋, I'm Dipesh</h1>
 
 ![colorless](https://telegra.ph/file/392393c9116bd2156fb64.jpg)
 
