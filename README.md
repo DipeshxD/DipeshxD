@@ -28,6 +28,33 @@ print('See you again👋')
 ```
 
 ##
+##### Languages that i use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+##
+##### Some of Technology that i have worked with
+
+![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat&logo=netlify&logoColor=white)
+
+![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
+
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
