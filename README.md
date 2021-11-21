@@ -6,6 +6,27 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Hiro&theme=tokyonight&layout=compact&langs_count=5">
 </div>
 
+###
+
+```python
+from github.xD-Hiro.db import quote
+
+class xD-Hiro():
+    def __init__(self):
+        self.name = ['Hiro']
+        self.country = ['India']
+        self.language = ['Hindi', 'English']
+
+    def quotes(quote):
+        if quote.Quotes == None:
+            quote.Quotes.add('Hehe.')
+            return quotes
+        else:
+            print(quote.Quotes)
+
+print('See you again👋')
+```
+
 ##
 <details open>
 <summary><b>Cute visitor count</b></summary>
