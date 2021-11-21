@@ -6,6 +6,11 @@
 
 <p align="center"> <a href="https://t.me/DIPESH_XD"><img src="https://telegra.ph/file/c18e73389ecad72a94730.jpg" alt="Hiro"></a> </p>
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xD-Hiro&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/xD-Hiro?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+</p>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xD-Hiro&theme=react&show_icons=true&count_private=true">
 </div>
