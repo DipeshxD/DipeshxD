@@ -6,3 +6,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Hiro&theme=tokyonight&layout=compact&langs_count=5">
 </div>
 
+##
+<details open>
+<summary><b>Cute visitor count</b></summary>
+<br>
+<a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
+</details>
