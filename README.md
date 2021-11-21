@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hiro</h1>
+
+<p align="center">
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Hiro?">
+</p>
+
+<p align="center"> <a href="https://t.me/DIPESH_XD"><img src="https://telegra.ph/file/c18e73389ecad72a94730.jpg" alt="Hiro"></a> </p>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xD-Hiro&theme=react&show_icons=true&count_private=true">
 </div>
