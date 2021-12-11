@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hiro</h1>
+<h1 align="center">Hi 👋, I'm Dipesh</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Hiro?">
+  <a href="https://t.me/DIPESH_XD"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Dipesh?">
 </p>
 
 <p align="center"> <a href="https://t.me/DIPESH_XD"><img src="https://telegra.ph/file/c18e73389ecad72a94730.jpg" alt="Hiro"></a> </p>
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xD-Hiro&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/xD-Hiro?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DipeshxD&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/DipeshxD?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xD-Hiro&theme=react&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=DipeshxD&theme=react&show_icons=true&count_private=true">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Hiro&theme=tokyonight&layout=compact&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshxD&theme=tokyonight&layout=compact&langs_count=5">
 </div>
 
 ###
 
 ```python
-from github.xD-Hiro.db import quote
+from github.DipeshxD.db import quote
 
-class xD-Hiro():
+class DipeshxD():
     def __init__(self):
-        self.name = ['Hiro']
+        self.name = ['Dipesh']
         self.country = ['India']
         self.language = ['Hindi', 'English']
 
@@ -68,5 +68,5 @@ print('See you again👋')
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://t.me/DIPESH_XD"><img alt="Cute Count" src="https://count.getloli.com/get/@xD-Hiro?theme=rule34" /></a>
+<a href="https://t.me/DIPESH_XD"><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34" /></a>
 </details>
