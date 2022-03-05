@@ -26,12 +26,6 @@
 </div>
 ##
 ---
-
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-3s61yj059-DipeshxD.vercel.app/api/spotify)](https://open.spotify.com/user/31gdawsrjlcef36io3hwslcqxrpm?si=eA_sWQHSSO6Fr3S8e4zvRQ)
-
----
 ## 💰 Support Me
 
 <a href="https://www.buymeacoffee.com/DipeshxD" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="DipeshxD" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
