@@ -1,72 +1,37 @@
-<h1 align="center">Hi 👋, I'm Dipesh</h1>
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Dipesh | [![Profile views](https://komarev.com/ghpvc/?username=DipeshxD&label=Profile%20views)](https://github.com/DipeshxD)
+   
+- 💫 I’m currently working on [Zeda](https://github.com/TeamZeda)
+- 📫 [Connect with me](#-connect-with-me).
+- ⚡ Always ready to help!
+---
 
-<p align="center">
-  <a href="https://t.me/DIPESH_XD"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Dipesh?">
-</p>
-
-<p align="center"> <a href="https://t.me/DIPESH_XD"><img src="https://telegra.ph/file/c18e73389ecad72a94730.jpg" alt="Hiro"></a> </p>
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DipeshxD&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/DipeshxD?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-</p>
-
+## 🛠️ Languages and tools
+</br>
+<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
+<a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
+<a href="https://www.docker.com/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
+<a href="https://git-scm.com/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+<a href="https://heroku.com" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
+<a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
+<a href="https://www.java.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
+<a href="https://www.linux.org/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
+<a href="https://www.photoshop.com/en" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
+<a href="https://www.postgresql.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
+<a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
+<a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
+---
+##
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DipeshxD&theme=react&show_icons=true&count_private=true">
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshxD&theme=tokyonight&layout=compact&langs_count=5">
-</div>
-
-###
-
-```python
-from github.DipeshxD.db import quote
-
-class DipeshxD():
-    def __init__(self):
-        self.name = ['Dipesh']
-        self.country = ['India']
-        self.language = ['Hindi', 'English']
-
-    def quotes(quote):
-        if quote.Quotes == None:
-            quote.Quotes.add('Hehe.')
-            return quotes
-        else:
-            print(quote.Quotes)
-
-print('See you again👋')
-```
-
 ##
-##### Languages that i use
+---
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-##
-##### Some of Technology that i have worked with
+## 🎵 Now playing
 
-![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
-![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+[![Spotify](https://spotify-readme-3s61yj059-DipeshxD.vercel.app/api/spotify)](https://open.spotify.com/user/31gdawsrjlcef36io3hwslcqxrpm?si=eA_sWQHSSO6Fr3S8e4zvRQ)
 
-![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
-![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+---
+## 💰 Support Me
 
-![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
-
-<details open>
-<summary><b>Cute visitor count</b></summary>
-<br>
-<a href="https://t.me/DIPESH_XD"><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34" /></a>
-</details>
+<a href="https://www.buymeacoffee.com/DipeshxD" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="DipeshxD" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
