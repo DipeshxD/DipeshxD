@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Dipesh | [![Profile views](https://komarev.com/ghpvc/?username=DipeshxD&label=Profile%20views)](https://github.com/DipeshxD)
    
 - 💫 I’m currently working on [Zeda](https://github.com/TeamZeda)
-- 📫 [Connect with me](#-connect-with-me).
+- 📫 [Connect with me](t.me/DipeshxD).
 - ⚡ Always ready to help!
 ---
 
