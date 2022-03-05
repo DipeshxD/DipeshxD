@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DipeshxD&theme=react&show_icons=true&count_private=true">
 </div>
 ##
----
-## 💰 Support Me
+
+💰 Support Me
 
 <a href="https://www.buymeacoffee.com/DipeshxD" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="DipeshxD" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
