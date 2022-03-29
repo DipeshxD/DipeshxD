@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/9372p7f0DxsJ4EL2BW/giphy.gif">
-</p>
+![DipeshxD](https://telegra.ph/file/ff588e4a3fa04d3dadb99.jpg)
 
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/DipeshxD) 
