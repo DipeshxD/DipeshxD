@@ -1,7 +1,7 @@
 ![DipeshxD](https://telegra.ph/file/ff588e4a3fa04d3dadb99.jpg)
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](tg://user?id=5070484474) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](t.me/MissKristina_Bot) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=DipeshxD&color=blue&style=flat-square&label=Profile+Views)
