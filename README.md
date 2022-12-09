@@ -1,7 +1,7 @@
-![DipeshxD](https://telegra.ph/file/9131cdefa0c8c70ecefe8.jpg)
+![DipeshxD](https://te.legra.ph/file/df3aa19fa4e19dfa208b1.jpg)
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/DIPESH_XD) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/DimpeshxD) 
 ![Profile views](https://komarev.com/ghpvc/?username=DipeshxD&color=blue&style=flat-square&label=Profile+Views)
 <br>
 
