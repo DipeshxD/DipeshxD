@@ -1,4 +1,4 @@
-![DipeshxD](https://te.legra.ph/file/df3aa19fa4e19dfa208b1.jpg)
+![DipeshxD](https://DipeshxD.me/1_2.jpeg)
 
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TheSimpers) 
